@@ -1,8 +1,6 @@
 # Restaurant_management_system
 ## Team members
-- Cedwin
-- Bryan
+- Cedwin (colouring, UI layout)
+- Bryan  (coder,frontend and backend,Database Connectivity,Tester)
 - Kirtiraj
 - Arif
-
-https://docs.google.com/spreadsheets/d/16UKmIEK4TK3iLswbPiPVyjusCNl_dCDRLgFTivIXB44/edit?usp=drivesdk
